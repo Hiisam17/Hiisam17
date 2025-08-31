@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=500&center=true&width=435&height=50&lines=%3E+Hi+%F0%9F%91%8B%2C+;I'm+Duy+Thinh" alt="Hi 👋, I'm Khanh Toan" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=500&center=true&width=435&height=50&lines=%3E+Hi+%F0%9F%91%8B%2C+;I'm+Khanh+Toan" alt="Hi 👋, I'm Khanh Toan" />
 </p>
 
 <p align="center">
@@ -58,7 +58,7 @@
   <!-- Stats Card -->
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=mrthinh307&hide_title=true&rank_icon=github&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1"
+      srcset="https://github-readme-stats.vercel.app/api?username=HiiSam17&hide_title=true&rank_icon=github&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1"
       media="(prefers-color-scheme: dark)"
     />
     <source
@@ -70,13 +70,13 @@
   <!-- Streak Card -->
   <picture>
     <source
-      srcset="https://github-readme-streak-stats-nivx.vercel.app?user=mrthinh307&locale=en&theme=dracula&hide_border=true&order=3"
+      srcset="https://github-readme-streak-stats-nivx.vercel.app?user=HiiSam17&locale=en&theme=dracula&hide_border=true&order=3"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-streak-stats-nivx.vercel.app?user=mrthinh307&locale=en&order=3"
+      srcset="https://github-readme-streak-stats-nivx.vercel.app?user=HiiSam17&locale=en&order=3"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-streak-stats-mrthinh307.vercel.app?user=mrthinh307" height="150" alt="streak graph" />
+    <img src="https://github-readme-streak-stats-mrthinh307.vercel.app?user=HiiSam17" height="150" alt="streak graph" />
   </picture>
 </div>
